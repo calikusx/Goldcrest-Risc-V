@@ -1,6 +1,6 @@
 # Goldcrest-Risc-V
 
-Five Stage Risc-V Core 
+Five Stage Risc-V Core in Verilog
 ![fivestage](https://github.com/user-attachments/assets/bf033740-9273-4153-aca3-1f550076088b)
 
 Data Hazards were handled with forwarding.
